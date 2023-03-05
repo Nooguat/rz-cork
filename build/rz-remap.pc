@@ -1,0 +1,14 @@
+prefix="/home/gsd/.local"
+exec_prefix="${prefix}"
+includedir="${prefix}/include"
+
+Name: RzRemap
+Description: Remap to add some useful things
+URL: https://example.org
+Version: 
+Requires: rz_core
+Requires.private: rz_core
+Cflags: -I"${includedir}"
+Libs: -L"${prefix}/lib/rizin/plugins" 
+Libs.private: -L"${prefix}/lib/rizin/plugins"
+
