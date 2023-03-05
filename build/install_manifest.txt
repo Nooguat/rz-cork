@@ -1,3 +1,0 @@
-/home/gsd/.local/include/rz-remap.h
-/home/gsd/.local/lib/pkgconfig/rz-remap.pc
-/home/gsd/.local/lib/rizin/plugins/rz_remap.so
